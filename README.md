@@ -1,4 +1,5 @@
 # 113-2programming
+柯昱葶 國文115級 41120122L
 2025年2月27日程式語言第二週作業 資料輸入與輸出
 https://colab.research.google.com/drive/1Bow3GGOEEUUWUVDXmWQBNhKz3RkEnFfA?usp=sharing
 
