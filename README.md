@@ -15,3 +15,6 @@ https://colab.research.google.com/drive/1UMtyRwiaXoK0HXV4OWlK-mPeDL5OwrRa?usp=sh
 
 2025年3月27日程式語言第六週作業 資料視覺化2
 https://colab.research.google.com/drive/1WgItk_PGeBIyApEs2refxEgfsIPA8ewg?usp=sharing
+
+2025年4月10日程式語言第七週作業 文字分類
+https://colab.research.google.com/drive/1kqoxbpA2uqMGc9mP0DT_xbopjX5GQDnl?usp=sharing
