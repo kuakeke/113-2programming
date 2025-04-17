@@ -18,3 +18,7 @@ https://colab.research.google.com/drive/1WgItk_PGeBIyApEs2refxEgfsIPA8ewg?usp=sh
 
 2025年4月10日程式語言第七週 隨堂作業 文字分類
 https://colab.research.google.com/drive/1kqoxbpA2uqMGc9mP0DT_xbopjX5GQDnl?usp=sharing
+
+2025年3月27日程式語言第八週 **作業三 資料分析**
+https://colab.research.google.com/drive/1YxxiL3O4CZI0JXM1-jCLQUT3QaqzxF7V?usp=sharing
+
