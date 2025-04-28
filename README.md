@@ -25,6 +25,8 @@ https://colab.research.google.com/drive/1YxxiL3O4CZI0JXM1-jCLQUT3QaqzxF7V?usp=sh
 2025年4月24日程式語言第九週 **作業四 文字雲與詞頻分析**
 https://colab.research.google.com/drive/1szrdNhADLh01KV8JQzxQvuI6aWuTyLBn?usp=sharing
 
-2025年4月24日程式語言第十週 **任務 從留言中抓出關鍵實體**
+2025年4月24日程式語言第十週 任務 從留言中抓出關鍵實體
 https://colab.research.google.com/drive/1Rx3aKsbjFMF1BEuX0BfourtjSosuiLSv?usp=sharing
 
+2025年5月1日程式語言第十一週 **作業五 命名實體識別**
+https://colab.research.google.com/drive/1hNgMqr-ZBCaA4dbDu0g75yMmIDceRPgT?usp=sharing
